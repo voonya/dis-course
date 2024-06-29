@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 data/messages_source_url_merged.csv
+data/**.csv
+data/**.zip
